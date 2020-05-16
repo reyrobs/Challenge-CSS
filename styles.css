@@ -1,0 +1,120 @@
+.bold {
+  color: grey;
+  /* font-weight:normal; */
+  font-weight: 200;
+  font-family: Poppins;
+
+}
+
+div {
+    border-style: solid;
+    width: 18.750em;
+    height: 12.500em;
+    background: white;
+    border-radius: 0.500em;
+    text-align: left;
+    margin: auto;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+section {
+  text-align: right;
+}
+
+ h1 {
+  color: grey;
+  font-family: Poppins;
+  text-align: center;
+  font-weight: 600;
+}
+
+h3 {
+  font-family: Poppins;
+}
+
+p {
+  font-family: Poppins;
+}
+
+img {
+  text-align: right;
+}
+
+footer {
+  text-align: center;
+}
+
+.image {
+  text-align: right;
+}
+
+/* .all {
+  margin-top: 50px;
+} */
+
+.squares {
+  position: relative;
+  background-color: hsl(0, 0%, 100%);
+  width: 100%;
+  height: 40.625em;
+  margin: auto;
+  text-align: center;
+  padding-top: 3.125em;
+
+}
+
+.header {
+  color: lightgrey;
+  margin: auto;
+  text-align: center;
+  width: 33%;
+}
+
+.inside-para {
+  /* float: left; */
+}
+
+ .one {
+  border-color: hsl(0, 78%, 62%) transparent transparent transparent;
+  position: absolute;
+  left: 50%;
+  margin-left: -9.375em;
+  margin-top: 4.688em;
+  -webkit-box-shadow: 9px 8px 32px 2px rgba(59,54,59,0.46);
+  -moz-box-shadow: 9px 8px 32px 2px rgba(59,54,59,0.46);
+  box-shadow: 9px 8px 32px 2px rgba(59,54,59,0.46);
+}
+
+.two {
+  border-color: hsl(180, 62%, 55%) transparent transparent transparent;
+  position: absolute;
+  left: 50%;
+  margin-left: 14.063em;
+  margin-top: 12.500em;
+  -webkit-box-shadow: 9px 8px 32px 2px rgba(59,54,59,0.46);
+  -moz-box-shadow: 9px 8px 32px 2px rgba(59,54,59,0.46);
+  box-shadow: 9px 8px 32px 2px rgba(59,54,59,0.46);
+}
+
+.three {
+  border-color: hsl(34, 97%, 64%) transparent transparent transparent;
+  position: absolute;
+  left: 50%;
+  margin-left: -32.813em;
+  margin-top: 12.500em;
+  -webkit-box-shadow: 9px 8px 32px 2px rgba(59,54,59,0.46);
+  -moz-box-shadow: 9px 8px 32px 2px rgba(59,54,59,0.46);
+  box-shadow: 9px 8px 32px 2px rgba(59,54,59,0.46);
+}
+
+.four {
+  border-color: hsl(212, 86%, 64%) transparent transparent transparent;
+  position: absolute;
+  left: 50%;
+  margin-left: -9.375em;
+  margin-top: 20.313em;
+  -webkit-box-shadow: 9px 8px 32px 2px rgba(59,54,59,0.46);
+  -moz-box-shadow: 9px 8px 32px 2px rgba(59,54,59,0.46);
+  box-shadow: 9px 8px 32px 2px rgba(59,54,59,0.46);
+}
